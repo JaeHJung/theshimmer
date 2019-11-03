@@ -1,2 +1,2 @@
-# theshimmer
+# The Shimmer
 VandyHacksVI SPOOKY GAME
